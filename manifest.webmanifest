@@ -1,0 +1,16 @@
+{
+  "name": "Tableau d'arbitrage AIT ALI",
+  "short_name": "Arbitrage",
+  "description": "Tableau d'arbitrage de combat avec rounds, historique PDF et capteurs.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
